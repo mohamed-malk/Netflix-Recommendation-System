@@ -8,4 +8,5 @@
                              
         movie, similer movoes based on title
         
- Dataset : https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data       
+ Netflix Dataset : https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data      
+ Handled Dataset : https://www.kaggle.com/datasets/mohamedmalkyasser/netflixmoviescustomers-rating
